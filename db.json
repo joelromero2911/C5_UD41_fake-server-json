@@ -45,5 +45,23 @@
       "origin":"Earth (Replacement Dimension)",
       "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
     }
+  ],
+  "users": [
+    {
+      "username": "joel",
+      "password": "1234"
+    },
+    {
+      "username": "izan",
+      "password": "1234"
+    },
+    {
+      "username": "GeeksHubs_2022",
+      "password": "password"
+    },
+    {
+      "username": "CT2022",
+      "password": "password"
+    }
   ]
 }
